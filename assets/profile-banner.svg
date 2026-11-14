@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Abdelrahman Amin Sallam - Flutter Developer</title>
+  <desc id="description">A navy and cyan developer banner featuring mobile interfaces, frontend work, AI-assisted development, and smart-home automation.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1280" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.6" stop-color="#0C1C31"/>
+      <stop offset="1" stop-color="#102B3D"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="65" y1="350" x2="1200" y2="70" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="930" y1="80" x2="1130" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#162E47"/>
+      <stop offset="1" stop-color="#0B1729"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#38BDF8" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#CBD5E1" stroke-opacity="0.035"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="400" rx="24" fill="url(#background)"/>
+  <rect width="1280" height="400" rx="24" fill="url(#grid)"/>
+  <ellipse cx="1030" cy="180" rx="320" ry="270" fill="url(#glow)"/>
+  <rect x="1" y="1" width="1278" height="398" rx="23" stroke="#28405A" stroke-opacity="0.8"/>
+  <path d="M120 399H1130" stroke="url(#accent)" stroke-width="2" stroke-opacity="0.75"/>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <rect x="62" y="49" width="39" height="39" rx="11" fill="#38BDF8" fill-opacity="0.10" stroke="#38BDF8" stroke-opacity="0.45"/>
+    <text x="81.5" y="74.5" text-anchor="middle" fill="#7DD3FC" font-size="15" font-weight="700">AS</text>
+    <text x="117" y="65" fill="#7DD3FC" font-size="12" font-weight="700" letter-spacing="2.1">FLUTTER DEVELOPER</text>
+    <text x="117" y="84" fill="#8299B4" font-size="11" letter-spacing="1.4">COMPUTER SCIENCE / CAIRO, EGYPT</text>
+
+    <text x="60" y="166" fill="#F8FAFC" font-size="53" font-weight="750" letter-spacing="-1.3">Abdelrahman Amin Sallam</text>
+    <text x="63" y="217" fill="url(#accent)" font-size="29" font-weight="600">Mobile. Web. Smarter spaces.</text>
+    <text x="64" y="255" fill="#A9BDD2" font-size="16">Thoughtful interfaces. Practical ideas. Continuous learning.</text>
+
+    <g font-size="11.5" font-weight="600" letter-spacing="0.6">
+      <rect x="63" y="293" width="121" height="31" rx="15.5" fill="#38BDF8" fill-opacity="0.08" stroke="#38BDF8" stroke-opacity="0.3"/>
+      <text x="123.5" y="313" text-anchor="middle" fill="#BAE6FD">FLUTTER / DART</text>
+      <rect x="194" y="293" width="105" height="31" rx="15.5" fill="#38BDF8" fill-opacity="0.06" stroke="#36516D"/>
+      <text x="246.5" y="313" text-anchor="middle" fill="#C7D7E8">FRONTEND</text>
+      <rect x="309" y="293" width="115" height="31" rx="15.5" fill="#38BDF8" fill-opacity="0.06" stroke="#36516D"/>
+      <text x="366.5" y="313" text-anchor="middle" fill="#C7D7E8">AI WORKFLOWS</text>
+      <rect x="434" y="293" width="111" height="31" rx="15.5" fill="#2DD4BF" fill-opacity="0.06" stroke="#2DD4BF" stroke-opacity="0.25"/>
+      <text x="489.5" y="313" text-anchor="middle" fill="#99F6E4">SMART HOME</text>
+    </g>
+  </g>
+
+  <g opacity="0.7" stroke="#38BDF8" stroke-opacity="0.18">
+    <circle cx="1045" cy="200" r="151"/>
+    <circle cx="1045" cy="200" r="178" stroke-dasharray="3 11"/>
+    <path d="M850 200H1220M1045 26V375" stroke-dasharray="3 8"/>
+  </g>
+  <g transform="rotate(7 1050 200)">
+    <rect x="963" y="55" width="176" height="288" rx="25" fill="#020B16" stroke="#55718B" stroke-width="2"/>
+    <rect x="973" y="66" width="156" height="266" rx="17" fill="url(#screen)"/>
+    <rect x="1019" y="72" width="62" height="7" rx="3.5" fill="#060D18"/>
+    <rect x="987" y="100" width="79" height="7" rx="3.5" fill="#BAE6FD" fill-opacity="0.9"/>
+    <rect x="987" y="114" width="103" height="4" rx="2" fill="#6A829C"/>
+    <rect x="987" y="138" width="128" height="67" rx="10" fill="#38BDF8" fill-opacity="0.13" stroke="#38BDF8" stroke-opacity="0.3"/>
+    <path d="M1002 187L1023 166L1042 179L1060 158L1099 177" stroke="#38BDF8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="1060" cy="158" r="4" fill="#7DD3FC"/>
+    <rect x="987" y="219" width="58" height="51" rx="8" fill="#183849"/>
+    <rect x="1057" y="219" width="58" height="51" rx="8" fill="#172C4A"/>
+    <path d="M1002 250V238H1014L1028 250" stroke="#5EEAD4" stroke-width="2" stroke-linecap="round"/>
+    <path d="M1073 237L1080 244L1073 251M1088 237L1095 244L1088 251" stroke="#7DD3FC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="987" y="286" width="128" height="26" rx="7" fill="#38BDF8" fill-opacity="0.2"/>
+    <circle cx="1010" cy="299" r="3" fill="#38BDF8"/>
+    <rect x="1020" y="297" width="73" height="4" rx="2" fill="#7DD3FC" fill-opacity="0.7"/>
+  </g>
+
+  <g font-family="Consolas, monospace">
+    <rect x="831" y="245" width="154" height="80" rx="12" fill="#0B1C2C" stroke="#2D5368"/>
+    <path d="M850 276L866 264L882 276V294H850V276Z" stroke="#2DD4BF" stroke-width="1.8" stroke-linejoin="round"/>
+    <path d="M861 294V282H872V294" stroke="#2DD4BF" stroke-width="1.8"/>
+    <circle cx="906" cy="270" r="3" fill="#2DD4BF"/>
+    <text x="916" y="274" fill="#99F6E4" font-size="10">CONNECTED</text>
+    <text x="900" y="296" fill="#8BA6BE" font-size="10">ideas to life</text>
+  </g>
+  <circle cx="1180" cy="96" r="5" fill="#38BDF8"/>
+  <circle cx="893" cy="110" r="3" fill="#2DD4BF" fill-opacity="0.7"/>
+  <circle cx="1185" cy="300" r="3" fill="#38BDF8" fill-opacity="0.5"/>
+</svg>
