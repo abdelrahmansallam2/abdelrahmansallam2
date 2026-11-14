@@ -46,23 +46,23 @@ const line = points.map((point, index) => `${index ? 'L' : 'M'}${point.x.toFixed
 const area = `${line} L1135 190 L65 190 Z`;
 const xml = value => String(value).replace(/[&<>"']/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&apos;' })[char]);
 const dateLabel = value => new Date(`${value}T00:00:00Z`).toLocaleDateString('en-GB', { day: '2-digit', month: 'short', timeZone: 'UTC' });
-const circles = points.map(point => `<circle cx="${point.x.toFixed(1)}" cy="${point.y.toFixed(1)}" r="3" fill="#2DD4BF"/>`).join('');
+const circles = points.map(point => `<circle cx="${point.x.toFixed(1)}" cy="${point.y.toFixed(1)}" r="3" fill="#6D8270"/>`).join('');
 const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title description">
   <title id="title">${xml(owner)} - GitHub activity</title>
   <desc id="description">${total} contributions from ${xml(days[0].date)} to ${xml(days.at(-1).date)}, using GitHub contribution data.</desc>
-  <defs><linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#38BDF8" stop-opacity="0.25"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0.01"/></linearGradient></defs>
-  <rect x="0.5" y="0.5" width="1199" height="259" rx="16" fill="#07111F" stroke="#263B50"/>
+  <defs><linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#C96942" stop-opacity="0.20"/><stop offset="1" stop-color="#C96942" stop-opacity="0.01"/></linearGradient></defs>
+  <rect x="0.5" y="0.5" width="1199" height="259" rx="16" fill="#F6F2EB" stroke="#D7CEC0"/>
   <g font-family="Segoe UI, Arial, sans-serif">
-    <text x="38" y="41" fill="#E2E8F0" font-size="17" font-weight="650">Contribution Activity</text>
-    <text x="38" y="63" fill="#8299B4" font-size="12">LAST 30 DAYS / PUBLIC GITHUB ACTIVITY</text>
-    <text x="1160" y="44" fill="#7DD3FC" font-size="16" font-weight="600" text-anchor="end">${total} contributions</text>
-    <path d="M65 90H1135M65 135H1135M65 190H1135" stroke="#24384D" stroke-dasharray="3 7"/>
+    <text x="38" y="41" fill="#29343B" font-size="17" font-weight="650">Contribution Activity</text>
+    <text x="38" y="63" fill="#79736B" font-size="12">LAST 30 DAYS / PUBLIC GITHUB ACTIVITY</text>
+    <text x="1160" y="44" fill="#A8502F" font-size="16" font-weight="600" text-anchor="end">${total} contributions</text>
+    <path d="M65 90H1135M65 135H1135M65 190H1135" stroke="#D7CEC0" stroke-dasharray="3 7"/>
     <path d="${area}" fill="url(#area)"/>
-    <path d="${line}" fill="none" stroke="#38BDF8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="${line}" fill="none" stroke="#C96942" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
     ${circles}
-    <text x="65" y="224" fill="#8299B4" font-size="12">${xml(dateLabel(days[0].date))}</text>
-    <text x="1135" y="224" fill="#8299B4" font-size="12" text-anchor="end">${xml(dateLabel(days.at(-1).date))}</text>
-    <text x="600" y="241" fill="#8299B4" font-size="11" text-anchor="middle">${xml(owner)} / refreshed automatically</text>
+    <text x="65" y="224" fill="#79736B" font-size="12">${xml(dateLabel(days[0].date))}</text>
+    <text x="1135" y="224" fill="#79736B" font-size="12" text-anchor="end">${xml(dateLabel(days.at(-1).date))}</text>
+    <text x="600" y="241" fill="#79736B" font-size="11" text-anchor="middle">${xml(owner)} / refreshed automatically</text>
   </g>
 </svg>`;
 const output = path.resolve('assets/contribution-activity.svg');

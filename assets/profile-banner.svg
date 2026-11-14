@@ -1,88 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" fill="none" role="img" aria-labelledby="title description">
-  <title id="title">Abdelrahman Amin Sallam - Flutter Developer</title>
-  <desc id="description">A navy and cyan developer banner featuring mobile interfaces, frontend work, AI-assisted development, and smart-home automation.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Abdelrahman Sallam - Flutter Developer</title>
+  <desc id="description">An original editorial-style developer banner in warm ivory, charcoal, and burnt orange, with a modular UI, state, and data illustration.</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1280" y2="400" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#07111F"/>
-      <stop offset="0.6" stop-color="#0C1C31"/>
-      <stop offset="1" stop-color="#102B3D"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="65" y1="350" x2="1200" y2="70" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#38BDF8"/>
-      <stop offset="1" stop-color="#2DD4BF"/>
-    </linearGradient>
-    <linearGradient id="screen" x1="930" y1="80" x2="1130" y2="330" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#162E47"/>
-      <stop offset="1" stop-color="#0B1729"/>
-    </linearGradient>
-    <radialGradient id="glow">
-      <stop stop-color="#38BDF8" stop-opacity="0.12"/>
-      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" stroke="#CBD5E1" stroke-opacity="0.035"/>
-    </pattern>
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="0.7" fill="#D8D1C6"/></pattern>
+    <linearGradient id="wash" x1="770" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#EEE7DB"/><stop offset="1" stop-color="#F6F2EB"/></linearGradient>
   </defs>
-  <rect width="1280" height="400" rx="24" fill="url(#background)"/>
-  <rect width="1280" height="400" rx="24" fill="url(#grid)"/>
-  <ellipse cx="1030" cy="180" rx="320" ry="270" fill="url(#glow)"/>
-  <rect x="1" y="1" width="1278" height="398" rx="23" stroke="#28405A" stroke-opacity="0.8"/>
-  <path d="M120 399H1130" stroke="url(#accent)" stroke-width="2" stroke-opacity="0.75"/>
-
+  <rect x="0.5" y="0.5" width="1279" height="359" rx="18" fill="#F6F2EB" stroke="#D7CEC0"/>
+  <path d="M812 1H1262Q1279 1 1279 18V342Q1279 359 1262 359H812Z" fill="url(#wash)"/>
+  <path d="M812 1V359" stroke="#D7CEC0"/>
+  <rect x="824" y="18" width="438" height="324" rx="12" fill="url(#dots)" opacity="0.65"/>
   <g font-family="Segoe UI, Arial, sans-serif">
-    <rect x="62" y="49" width="39" height="39" rx="11" fill="#38BDF8" fill-opacity="0.10" stroke="#38BDF8" stroke-opacity="0.45"/>
-    <text x="81.5" y="74.5" text-anchor="middle" fill="#7DD3FC" font-size="15" font-weight="700">AS</text>
-    <text x="117" y="65" fill="#7DD3FC" font-size="12" font-weight="700" letter-spacing="2.1">FLUTTER DEVELOPER</text>
-    <text x="117" y="84" fill="#8299B4" font-size="11" letter-spacing="1.4">COMPUTER SCIENCE / CAIRO, EGYPT</text>
-
-    <text x="60" y="166" fill="#F8FAFC" font-size="53" font-weight="750" letter-spacing="-1.3">Abdelrahman Amin Sallam</text>
-    <text x="63" y="217" fill="url(#accent)" font-size="29" font-weight="600">Mobile. Web. Smarter spaces.</text>
-    <text x="64" y="255" fill="#A9BDD2" font-size="16">Thoughtful interfaces. Practical ideas. Continuous learning.</text>
-
-    <g font-size="11.5" font-weight="600" letter-spacing="0.6">
-      <rect x="63" y="293" width="121" height="31" rx="15.5" fill="#38BDF8" fill-opacity="0.08" stroke="#38BDF8" stroke-opacity="0.3"/>
-      <text x="123.5" y="313" text-anchor="middle" fill="#BAE6FD">FLUTTER / DART</text>
-      <rect x="194" y="293" width="105" height="31" rx="15.5" fill="#38BDF8" fill-opacity="0.06" stroke="#36516D"/>
-      <text x="246.5" y="313" text-anchor="middle" fill="#C7D7E8">FRONTEND</text>
-      <rect x="309" y="293" width="115" height="31" rx="15.5" fill="#38BDF8" fill-opacity="0.06" stroke="#36516D"/>
-      <text x="366.5" y="313" text-anchor="middle" fill="#C7D7E8">AI WORKFLOWS</text>
-      <rect x="434" y="293" width="111" height="31" rx="15.5" fill="#2DD4BF" fill-opacity="0.06" stroke="#2DD4BF" stroke-opacity="0.25"/>
-      <text x="489.5" y="313" text-anchor="middle" fill="#99F6E4">SMART HOME</text>
-    </g>
+    <rect x="58" y="43" width="36" height="36" rx="7" fill="#232B30"/>
+    <text x="76" y="66.5" fill="#F6F2EB" text-anchor="middle" font-size="14" font-weight="700">AS</text>
+    <text x="108" y="58" fill="#C35F36" font-size="12" font-weight="700" letter-spacing="2.2">FLUTTER DEVELOPER</text>
+    <text x="108" y="77" fill="#79736B" font-size="11" letter-spacing="1.1">MOBILE DEVELOPMENT / CAIRO, EGYPT</text>
+    <text x="55" y="157" fill="#20282E" font-size="60" font-weight="750" letter-spacing="-1.8">Abdelrahman Sallam</text>
+    <rect x="59" y="184" width="42" height="3" rx="1.5" fill="#D46B40"/>
+    <text x="58" y="226" fill="#3D484E" font-size="27" font-weight="500">Flutter apps, built with care.</text>
+    <text x="59" y="261" fill="#79736B" font-size="15">Thoughtful UI. Clear state. Useful everyday experiences.</text>
+    <path d="M59 294H752" stroke="#D7CEC0"/>
+    <text x="59" y="321" fill="#79736B" font-size="10.5" letter-spacing="1.7">BUILD / TEST / REFINE</text>
+    <text x="752" y="321" fill="#C35F36" font-size="11" text-anchor="end" letter-spacing="1.1">DART + FLUTTER</text>
   </g>
-
-  <g opacity="0.7" stroke="#38BDF8" stroke-opacity="0.18">
-    <circle cx="1045" cy="200" r="151"/>
-    <circle cx="1045" cy="200" r="178" stroke-dasharray="3 11"/>
-    <path d="M850 200H1220M1045 26V375" stroke-dasharray="3 8"/>
-  </g>
-  <g transform="rotate(7 1050 200)">
-    <rect x="963" y="55" width="176" height="288" rx="25" fill="#020B16" stroke="#55718B" stroke-width="2"/>
-    <rect x="973" y="66" width="156" height="266" rx="17" fill="url(#screen)"/>
-    <rect x="1019" y="72" width="62" height="7" rx="3.5" fill="#060D18"/>
-    <rect x="987" y="100" width="79" height="7" rx="3.5" fill="#BAE6FD" fill-opacity="0.9"/>
-    <rect x="987" y="114" width="103" height="4" rx="2" fill="#6A829C"/>
-    <rect x="987" y="138" width="128" height="67" rx="10" fill="#38BDF8" fill-opacity="0.13" stroke="#38BDF8" stroke-opacity="0.3"/>
-    <path d="M1002 187L1023 166L1042 179L1060 158L1099 177" stroke="#38BDF8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="1060" cy="158" r="4" fill="#7DD3FC"/>
-    <rect x="987" y="219" width="58" height="51" rx="8" fill="#183849"/>
-    <rect x="1057" y="219" width="58" height="51" rx="8" fill="#172C4A"/>
-    <path d="M1002 250V238H1014L1028 250" stroke="#5EEAD4" stroke-width="2" stroke-linecap="round"/>
-    <path d="M1073 237L1080 244L1073 251M1088 237L1095 244L1088 251" stroke="#7DD3FC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-    <rect x="987" y="286" width="128" height="26" rx="7" fill="#38BDF8" fill-opacity="0.2"/>
-    <circle cx="1010" cy="299" r="3" fill="#38BDF8"/>
-    <rect x="1020" y="297" width="73" height="4" rx="2" fill="#7DD3FC" fill-opacity="0.7"/>
-  </g>
-
   <g font-family="Consolas, monospace">
-    <rect x="831" y="245" width="154" height="80" rx="12" fill="#0B1C2C" stroke="#2D5368"/>
-    <path d="M850 276L866 264L882 276V294H850V276Z" stroke="#2DD4BF" stroke-width="1.8" stroke-linejoin="round"/>
-    <path d="M861 294V282H872V294" stroke="#2DD4BF" stroke-width="1.8"/>
-    <circle cx="906" cy="270" r="3" fill="#2DD4BF"/>
-    <text x="916" y="274" fill="#99F6E4" font-size="10">CONNECTED</text>
-    <text x="900" y="296" fill="#8BA6BE" font-size="10">ideas to life</text>
+    <text x="859" y="55" fill="#7D776E" font-size="10.5" letter-spacing="2">A SMALL APP SYSTEM</text>
+    <path d="M879 99V262" stroke="#B6AD9D" stroke-width="1.5"/>
+    <circle cx="879" cy="117" r="5" fill="#D46B40"/>
+    <circle cx="879" cy="187" r="5" fill="#6D8270"/>
+    <circle cx="879" cy="257" r="5" fill="#667A8A"/>
+    <path d="M884 117H908M884 187H908M884 257H908" stroke="#B6AD9D" stroke-width="1.5"/>
+    <rect x="913" y="93" width="276" height="56" rx="10" fill="#FFFFFF" fill-opacity="0.8" stroke="#CDBFAE"/>
+    <rect x="908" y="88" width="276" height="56" rx="10" fill="#FFFDF9" stroke="#CDBFAE"/>
+    <text x="928" y="111" fill="#C35F36" font-size="10">01 / PRESENTATION</text>
+    <text x="928" y="130" fill="#29343B" font-size="13">Widgets that work together</text>
+    <rect x="913" y="163" width="276" height="56" rx="10" fill="#FFFFFF" fill-opacity="0.8" stroke="#CDBFAE"/>
+    <rect x="908" y="158" width="276" height="56" rx="10" fill="#FFFDF9" stroke="#CDBFAE"/>
+    <text x="928" y="181" fill="#6D8270" font-size="10">02 / STATE</text>
+    <text x="928" y="200" fill="#29343B" font-size="13">Clear, predictable behavior</text>
+    <rect x="913" y="233" width="276" height="56" rx="10" fill="#FFFFFF" fill-opacity="0.8" stroke="#CDBFAE"/>
+    <rect x="908" y="228" width="276" height="56" rx="10" fill="#FFFDF9" stroke="#CDBFAE"/>
+    <text x="928" y="251" fill="#667A8A" font-size="10">03 / DATA</text>
+    <text x="928" y="270" fill="#29343B" font-size="13">APIs, auth, and persistence</text>
+    <text x="859" y="321" fill="#8E8578" font-size="10" letter-spacing="1">ONE DETAIL AT A TIME.</text>
   </g>
-  <circle cx="1180" cy="96" r="5" fill="#38BDF8"/>
-  <circle cx="893" cy="110" r="3" fill="#2DD4BF" fill-opacity="0.7"/>
-  <circle cx="1185" cy="300" r="3" fill="#38BDF8" fill-opacity="0.5"/>
 </svg>

@@ -1,109 +1,83 @@
 <p align="center">
-  <img width="100%" src="./assets/profile-banner.svg" alt="Abdelrahman Amin Sallam - Flutter, frontend, and smart-home development" />
+  <img width="100%" src="./assets/profile-banner.svg" alt="Abdelrahman Sallam - Flutter Developer" />
 </p>
 
-<div align="center">
+<p align="center">
+  <a href="#selected-work">Selected work</a> &nbsp;/&nbsp;
+  <a href="#how-i-build">How I build</a> &nbsp;/&nbsp;
+  <a href="#background">Background</a> &nbsp;/&nbsp;
+  <a href="#contact">Contact</a>
+</p>
 
-# Abdelrahman Amin Sallam
+I'm **Abdelrahman Sallam**, a **Flutter Developer** and Computer Science student in Cairo. I build cross-platform apps with thoughtful interfaces, clear state flows, and useful everyday features.
 
-**Flutter Developer | Frontend Developer | Computer Science Student**
+My main focus is **Flutter and Dart**. I also bring experience with web interfaces, AI-assisted development, and smart-home automation.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=2600&amp;pause=1100&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=52&amp;lines=Cross-platform+apps+with+Flutter+%26+Dart;Responsive+web+interfaces+with+React+%26+TypeScript;AI-assisted+development+and+problem+solving;Home+automation+and+smart-home+solutions" alt="Flutter, frontend, AI-assisted development, and smart-home interests" />
+## Selected Work
 
-I turn ideas into mobile apps, responsive web experiences, and useful automations.
+<a href="https://github.com/abdelrahmansallam2/seniors_2027">
+  <img width="100%" src="./assets/seniors-project.svg" alt="Seniors 2027 - a Flutter graduation community app" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrahman_Sallam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-sallam-057a62356/)
-[![Email](https://img.shields.io/badge/Email-Let%27s_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ab01095702547@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-abdelrahmansallam2-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdelrahmansallam2)
+### [Seniors 2027](https://github.com/abdelrahmansallam2/seniors_2027)
 
-Cairo, Egypt
+A graduation community app bringing announcements, senior profiles, memories, daily highlights, notes, events, and polls into one place.
 
-</div>
+**My work:** Flutter interfaces, reusable retro components, REST API integration with an ASP.NET Core backend, JWT authentication and secure token storage, image uploads, refresh flows, error handling, and Android release builds.
 
-## About Me
+**The details I care about:** keeping sessions consistent, preserving image quality, handling asynchronous state safely, and covering regressions with widget tests.
 
-I'm a Computer Science student at **Shorouk Academy** and a Flutter developer with hands-on experience building cross-platform applications using **Flutter and Dart**. My work includes API-driven community apps, Firebase-backed task management, localized interfaces, and responsive web projects.
+`Flutter` · `Dart` · `Dio` · `REST APIs` · `Secure Storage`
 
-Alongside mobile development, I work on **frontend interfaces**, use **AI tools to support development and problem solving**, and have skills in **home automation and smart-home workflows**. I enjoy connecting well-designed interfaces with practical functionality.
+<table>
+<tr>
+<td width="50%" valign="top">
+<sub>02 / PRODUCTIVITY</sub>
+<h3><a href="https://github.com/abdelrahmansallam2/todo-app-">Todo App</a></h3>
+<p>Account-based task management with Firebase Authentication and Cloud Firestore. Add, complete, delete, filter, and organize tasks with localized light/dark interfaces.</p>
+<p><code>Flutter</code> <code>Firebase</code> <code>Provider</code></p>
+</td>
+<td width="50%" valign="top">
+<sub>03 / EVERYDAY UTILITY</sub>
+<h3><a href="https://github.com/abdelrahmansallam2/islame-app-c11-sun-wed-4PM">Islami App</a></h3>
+<p>Quran, Hadith, Sebha, radio, and settings in a responsive Flutter app, with localization, named routing, and dynamic light/dark themes.</p>
+<p><code>Flutter</code> <code>Dart</code> <code>Provider</code></p>
+</td>
+</tr>
+</table>
 
-My background in real estate sales and property consulting has also taught me how to understand client needs, communicate clearly, negotiate, and follow work through to completion.
+**Other work:** a [responsive wedding invitation website](https://github.com/abdelrahmansallam2/Abdullah-Esraa) built with React, TypeScript, and Tailwind CSS. [Live preview](https://abdullah-esraa-wedding-invite.vercel.app).
 
-## Skills and Capabilities
+## How I Build
 
-| Area | What I Work With |
+- **Reusable interfaces:** responsive layouts, shared widgets, localization, and consistent themes.
+- **Predictable app behavior:** clear loading/error states, secure sessions, and careful asynchronous programming.
+- **Quality beyond the happy path:** debugging, unit/widget testing, and measured performance improvements.
+
+| Main tools | In practice |
 | --- | --- |
-| **Mobile Development** | Flutter, Dart, OOP, asynchronous programming, responsive layouts, reusable widgets |
-| **Frontend Development** | React, TypeScript, HTML, CSS, Tailwind CSS, responsive interfaces, component-based UI |
-| **State and App Experience** | Provider, navigation, localization, light/dark themes, forms, and validation |
-| **Firebase and API Integration** | Firebase Authentication, Cloud Firestore, REST APIs, Dio, JWT authentication, secure token storage |
-| **AI-Assisted Development** | Prompt design, AI coding assistants, debugging support, reviewing generated code, and checking results |
-| **Home Automation and Smart Home** | Smart-device integration, automation routines, connected-home workflows, and practical troubleshooting |
-| **Quality and Delivery** | Git, GitHub, Flutter unit/widget testing, error handling, and signed Android release builds |
-| **Computer Science** | Problem solving, data structures, algorithms, and object-oriented programming |
-| **People and Collaboration** | Client communication, requirement gathering, negotiation, teamwork, customer service, and continuous learning |
+| **Flutter & Dart** | OOP, asynchronous programming, responsive UI, reusable widgets |
+| **Provider & app state** | Navigation, forms, validation, localization, light/dark themes |
+| **Firebase & REST APIs** | Authentication, Firestore, Dio, JWT, encrypted token storage |
+| **Git & GitHub** | Version control, code review, regression fixes, Android release delivery |
 
-## Technology Stack
+### Beyond the App
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,react,ts,html,css,tailwind,git,github&amp;perline=10" alt="Flutter, Dart, Firebase, React, TypeScript, HTML, CSS, Tailwind CSS, Git, and GitHub" />
-</p>
+**AI-assisted development:** writing clear prompts, using coding assistants to support implementation and debugging, and reviewing and testing the results.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/REST_APIs-0F172A?style=flat-square" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Provider-0369A1?style=flat-square" alt="Provider state management" />
-  <img src="https://img.shields.io/badge/AI--Assisted_Development-6D28D9?style=flat-square" alt="AI-assisted development" />
-  <img src="https://img.shields.io/badge/Smart_Home_%26_Automation-0F766E?style=flat-square" alt="Smart home and automation" />
-</p>
+**Smart home & automation:** smart-device integration, automation routines, connected-home workflows, and practical troubleshooting.
 
-## Selected Projects
+**Client communication:** experience understanding requirements, presenting solutions, negotiating, and following work through to completion.
 
-### [Seniors 2027 - Graduation Community App](https://github.com/abdelrahmansallam2/seniors_2027)
+## Background
 
-A Flutter application connecting a graduation community through announcements, senior profiles, a memoryboard, daily highlights, notes, events, polls, and a leaderboard.
+**Computer Science, Shorouk Academy** · Cairo · 2023 - 2027, in progress.<br>
+**Flutter Developer Trainee, Route** · May - September 2024 · 120-hour program.
 
-- Integrates with an **ASP.NET Core backend through REST APIs**, with JWT authentication, encrypted token storage, and centralized session handling.
-- Includes image uploads, dynamic refresh, pagination, profile features, and Spotify WebView integration.
-- Built with a distinctive retro scrapbook interface, reusable widgets, and responsive layouts; includes regression tests and signed Android builds.
+<details>
+<summary>More about my training and client-facing experience</summary>
 
-`Flutter` / `Dart` / `Dio` / `REST APIs` / `JWT` / `Secure Storage` / `Git & GitHub`
-
-### [Todo App - Personal Task Management](https://github.com/abdelrahmansallam2/todo-app-)
-
-A Flutter task-management application with user accounts and account-specific task storage.
-
-- Uses **Firebase Authentication and Cloud Firestore** for sign-in and task data.
-- Supports adding, completing, deleting, filtering, and sorting tasks.
-- Includes Provider state management, localization, light/dark themes, and reusable UI components.
-
-`Flutter` / `Dart` / `Firebase Authentication` / `Cloud Firestore` / `Provider`
-
-### [Islami App - Everyday Islamic Features](https://github.com/abdelrahmansallam2/islame-app-c11-sun-wed-4PM)
-
-A cross-platform Flutter application featuring Quran, Hadith, Sebha, radio, and settings.
-
-- Uses Provider, named routing, localization, and dynamic light/dark themes.
-- Includes custom assets, fonts, reusable widgets, and a responsive mobile interface.
-
-`Flutter` / `Dart` / `Provider` / `Localization` / `Material Design`
-
-### [Wedding Invitation Website - Frontend Project](https://github.com/abdelrahmansallam2/Abdullah-Esraa)
-
-A responsive wedding invitation web project built with React, TypeScript, and Tailwind CSS, with a live deployment on Vercel.
-
-[View Live Website](https://abdullah-esraa-wedding-invite.vercel.app)
-
-`React` / `TypeScript` / `Tailwind CSS` / `Vite` / `Vercel`
-
-## Experience and Training
-
-### Flutter Developer Trainee - Route
-
-**May 2024 - September 2024 | 120-hour training program**
-
-- Studied Dart, OOP, asynchronous programming, and Flutter application development.
-- Practiced clean, structured code, responsive mobile interfaces, and practical app-building concepts.
-
-### Client-Facing Experience
+At Route, I studied Dart, object-oriented and asynchronous programming, Flutter app development, structured code, and responsive mobile interfaces.
 
 | Role | Organization | Period |
 | --- | --- | --- |
@@ -111,43 +85,25 @@ A responsive wedding invitation web project built with React, TypeScript, and Ta
 | Real Estate Agent | 4U Real Estate Office | May 2024 - June 2025 |
 | Real Estate Agent | Al Hamd Real Estate Marketing Office | 2023 - 2024 |
 
-Experience in client requirements, lead follow-up, property presentations, negotiation, customer service, and working toward sales targets. These skills support how I communicate with clients and collaborate on software projects.
+This background developed my communication, lead follow-up, negotiation, customer service, and teamwork.
 
-## Education and Languages
+**Languages:** Arabic - native / English - intermediate (B1).
 
-**B.Sc. in Computer Science - Shorouk Academy, Cairo**<br>
-2023 - 2027 | In progress
+</details>
 
-**Arabic:** Native / **English:** Intermediate (B1)
+<details>
+<summary>Recent GitHub activity</summary>
 
-## Current Focus
+<img width="100%" src="./assets/contribution-activity.svg" alt="Abdelrahman Sallam's actual GitHub contribution activity over the last 30 days" />
 
-- Building maintainable Flutter applications with responsive, polished interfaces.
-- Developing frontend experiences with React and TypeScript.
-- Using AI tools thoughtfully while reviewing and testing the output.
-- Working on practical smart-home and home-automation workflows.
-- Improving application reliability through testing, clear errors, and measured performance work.
+<sub>Generated from GitHub contribution data and refreshed automatically.</sub>
 
-## GitHub Activity
+</details>
 
-<p align="center">
-  <img width="100%" src="./assets/contribution-activity.svg" alt="Abdelrahman Sallam's GitHub contribution activity over the last 30 days" />
-</p>
+## Contact
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/contribution-snake.svg" />
-  <img width="100%" src="./assets/contribution-snake.svg" alt="Animated snake following Abdelrahman Sallam's GitHub contributions" />
-</picture>
+Have a mobile app in mind? Let's talk.
 
----
+[LinkedIn](https://www.linkedin.com/in/abdelrahman-sallam-057a62356/) &nbsp; / &nbsp; [Email](mailto:ab01095702547@gmail.com) &nbsp; / &nbsp; [GitHub](https://github.com/abdelrahmansallam2)
 
-<div align="center">
-
-### Let's Build Something Useful
-
-[LinkedIn](https://www.linkedin.com/in/abdelrahman-sallam-057a62356/) / [Email](mailto:ab01095702547@gmail.com) / [GitHub](https://github.com/abdelrahmansallam2)
-
-Mobile apps. Web interfaces. Smarter everyday experiences.
-
-</div>
+<sub>Abdelrahman Sallam / Flutter Developer / Cairo, Egypt</sub>
