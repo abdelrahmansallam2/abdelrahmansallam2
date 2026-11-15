@@ -1,83 +1,104 @@
 <p align="center">
-  <img width="100%" src="./assets/profile-banner.svg" alt="Abdelrahman Sallam - Flutter Developer" />
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-banner.svg" />
+    <img width="100%" src="./assets/flutter-lab.gif" alt="Abdelrahman Sallam - Flutter Developer. An original animated Flutter lab with a floating phone, interface cards, and connected-home details." />
+  </picture>
 </p>
 
 <p align="center">
-  <a href="#selected-work">Selected work</a> &nbsp;/&nbsp;
-  <a href="#how-i-build">How I build</a> &nbsp;/&nbsp;
-  <a href="#background">Background</a> &nbsp;/&nbsp;
-  <a href="#contact">Contact</a>
+  <a href="#the-workbench">THE WORKBENCH</a> &nbsp; / &nbsp;
+  <a href="#under-the-hood">UNDER THE HOOD</a> &nbsp; / &nbsp;
+  <a href="#beyond-the-screen">BEYOND THE SCREEN</a> &nbsp; / &nbsp;
+  <a href="#lets-build">LET'S BUILD</a>
 </p>
 
-I'm **Abdelrahman Sallam**, a **Flutter Developer** and Computer Science student in Cairo. I build cross-platform apps with thoughtful interfaces, clear state flows, and useful everyday features.
+### Small screens. Big possibilities.
 
-My main focus is **Flutter and Dart**. I also bring experience with web interfaces, AI-assisted development, and smart-home automation.
+I'm **Abdelrahman Sallam**, a **Flutter Developer** and Computer Science student in Cairo. I turn ideas into mobile interfaces, connect them to real data, and keep refining the details that make an app feel right.
 
-## Selected Work
+**My playground:** Flutter & Dart / thoughtful UI / useful automation.
+
+## The Workbench
 
 <a href="https://github.com/abdelrahmansallam2/seniors_2027">
-  <img width="100%" src="./assets/seniors-project.svg" alt="Seniors 2027 - a Flutter graduation community app" />
+  <img width="100%" src="./assets/seniors-project.svg" alt="01 - Seniors 2027. A retro yearbook-inspired Flutter community app. Explore the source code." />
 </a>
 
-### [Seniors 2027](https://github.com/abdelrahmansallam2/seniors_2027)
+**[Seniors 2027](https://github.com/abdelrahmansallam2/seniors_2027)** brings senior profiles, memories, daily highlights, notes, announcements, events, and polls together.
 
-A graduation community app bringing announcements, senior profiles, memories, daily highlights, notes, events, and polls into one place.
+I build the Flutter experience: reusable retro widgets, REST integration with an ASP.NET Core backend, JWT authentication, secure storage, image uploads, and Android releases.
 
-**My work:** Flutter interfaces, reusable retro components, REST API integration with an ASP.NET Core backend, JWT authentication and secure token storage, image uploads, refresh flows, error handling, and Android release builds.
+`Flutter` `Dart` `Dio` `REST APIs` `Secure Storage`
 
-**The details I care about:** keeping sessions consistent, preserving image quality, handling asynchronous state safely, and covering regressions with widget tests.
+<a href="https://github.com/abdelrahmansallam2/todo-app-">
+  <img width="100%" src="./assets/todo-project.svg" alt="02 - Todo App. Firebase authentication, Firestore tasks, filters, localization, and light/dark themes. Explore the source code." />
+</a>
 
-`Flutter` · `Dart` · `Dio` · `REST APIs` · `Secure Storage`
+**[Todo App](https://github.com/abdelrahmansallam2/todo-app-)** / Task management with Firebase Authentication, Cloud Firestore, Provider, localization, and light/dark interfaces.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<sub>02 / PRODUCTIVITY</sub>
-<h3><a href="https://github.com/abdelrahmansallam2/todo-app-">Todo App</a></h3>
-<p>Account-based task management with Firebase Authentication and Cloud Firestore. Add, complete, delete, filter, and organize tasks with localized light/dark interfaces.</p>
-<p><code>Flutter</code> <code>Firebase</code> <code>Provider</code></p>
-</td>
-<td width="50%" valign="top">
-<sub>03 / EVERYDAY UTILITY</sub>
-<h3><a href="https://github.com/abdelrahmansallam2/islame-app-c11-sun-wed-4PM">Islami App</a></h3>
-<p>Quran, Hadith, Sebha, radio, and settings in a responsive Flutter app, with localization, named routing, and dynamic light/dark themes.</p>
-<p><code>Flutter</code> <code>Dart</code> <code>Provider</code></p>
-</td>
-</tr>
-</table>
+<a href="https://github.com/abdelrahmansallam2/islame-app-c11-sun-wed-4PM">
+  <img width="100%" src="./assets/islami-project.svg" alt="03 - Islami App. Quran, Hadith, Sebha, radio, and settings in a localized Flutter app. Explore the source code." />
+</a>
 
-**Other work:** a [responsive wedding invitation website](https://github.com/abdelrahmansallam2/Abdullah-Esraa) built with React, TypeScript, and Tailwind CSS. [Live preview](https://abdullah-esraa-wedding-invite.vercel.app).
-
-## How I Build
-
-- **Reusable interfaces:** responsive layouts, shared widgets, localization, and consistent themes.
-- **Predictable app behavior:** clear loading/error states, secure sessions, and careful asynchronous programming.
-- **Quality beyond the happy path:** debugging, unit/widget testing, and measured performance improvements.
-
-| Main tools | In practice |
-| --- | --- |
-| **Flutter & Dart** | OOP, asynchronous programming, responsive UI, reusable widgets |
-| **Provider & app state** | Navigation, forms, validation, localization, light/dark themes |
-| **Firebase & REST APIs** | Authentication, Firestore, Dio, JWT, encrypted token storage |
-| **Git & GitHub** | Version control, code review, regression fixes, Android release delivery |
-
-### Beyond the App
-
-**AI-assisted development:** writing clear prompts, using coding assistants to support implementation and debugging, and reviewing and testing the results.
-
-**Smart home & automation:** smart-device integration, automation routines, connected-home workflows, and practical troubleshooting.
-
-**Client communication:** experience understanding requirements, presenting solutions, negotiating, and following work through to completion.
-
-## Background
-
-**Computer Science, Shorouk Academy** · Cairo · 2023 - 2027, in progress.<br>
-**Flutter Developer Trainee, Route** · May - September 2024 · 120-hour program.
+**[Islami App](https://github.com/abdelrahmansallam2/islame-app-c11-sun-wed-4PM)** / Quran, Hadith, Sebha, radio, and settings with responsive layouts, localization, and dynamic themes.
 
 <details>
-<summary>More about my training and client-facing experience</summary>
+<summary><strong>One more thing: a little web experiment</strong></summary>
 
-At Route, I studied Dart, object-oriented and asynchronous programming, Flutter app development, structured code, and responsive mobile interfaces.
+A [responsive wedding invitation](https://github.com/abdelrahmansallam2/Abdullah-Esraa), built with React, TypeScript, and Tailwind CSS. [Open the live site](https://abdullah-esraa-wedding-invite.vercel.app).
+
+</details>
+
+## Under the Hood
+
+```dart
+final developer = <String, Object>{
+  'name': 'Abdelrahman Sallam',
+  'focus': 'Flutter Developer',
+  'toolbox': ['Dart', 'Provider', 'Firebase', 'Dio', 'Git'],
+  'careAbout': ['Useful UI', 'Clear state', 'The edge cases'],
+  'beyondApps': ['AI-assisted workflows', 'Smart-home automation'],
+};
+```
+
+<details>
+<summary><strong>Open the toolbox</strong> / what I actually work with</summary>
+
+| Layer | My tools and focus |
+| --- | --- |
+| **Interface** | Flutter widgets, responsive layouts, shared themes, localization |
+| **Behavior** | Provider, navigation, forms, validation, async state |
+| **Data** | Firebase Auth, Firestore, REST APIs, Dio, JWT, secure storage |
+| **Delivery** | Git, debugging, unit/widget tests, Android releases |
+
+</details>
+
+<details>
+<summary><strong>Read the build log</strong> / actual GitHub contribution activity</summary>
+
+<img width="100%" src="./assets/contribution-activity.svg" alt="Actual GitHub contribution activity for Abdelrahman Sallam over the last 30 days" />
+
+<sub>Real GitHub contribution data, refreshed automatically.</sub>
+
+</details>
+
+## Beyond the Screen
+
+<img width="100%" src="./assets/beyond-the-screen.svg" alt="Two connected interests: AI-assisted development and smart-home automation." />
+
+**AI as a collaborator.** Clear prompts, implementation support, debugging, and iteration, with review and testing of the result.
+
+**Code meets the real world.** Smart-device integration, connected-home workflows, automation routines, and practical troubleshooting.
+
+<details>
+<summary><strong>The person behind the commits</strong> / education, training, and experience</summary>
+
+**Computer Science, Shorouk Academy** / 2023 - 2027, in progress.<br>
+**Flutter Developer Trainee, Route** / May - September 2024 / 120-hour program.
+
+My training covered Dart, OOP, asynchronous programming, Flutter development, structured code, and responsive mobile interfaces.
+
+Previous client-facing work shaped how I understand requirements, explain solutions, and follow through:
 
 | Role | Organization | Period |
 | --- | --- | --- |
@@ -85,25 +106,18 @@ At Route, I studied Dart, object-oriented and asynchronous programming, Flutter 
 | Real Estate Agent | 4U Real Estate Office | May 2024 - June 2025 |
 | Real Estate Agent | Al Hamd Real Estate Marketing Office | 2023 - 2024 |
 
-This background developed my communication, lead follow-up, negotiation, customer service, and teamwork.
-
 **Languages:** Arabic - native / English - intermediate (B1).
 
 </details>
 
-<details>
-<summary>Recent GitHub activity</summary>
+## Let's Build
 
-<img width="100%" src="./assets/contribution-activity.svg" alt="Abdelrahman Sallam's actual GitHub contribution activity over the last 30 days" />
+An app idea, a useful collaboration, or a good technical conversation. Start here:
 
-<sub>Generated from GitHub contribution data and refreshed automatically.</sub>
+<p>
+  <a href="mailto:ab01095702547@gmail.com"><img width="164" src="./assets/contact-email.svg" alt="Email Abdelrahman" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/abdelrahman-sallam-057a62356/"><img width="164" src="./assets/contact-linkedin.svg" alt="Connect on LinkedIn" /></a>
+</p>
 
-</details>
-
-## Contact
-
-Have a mobile app in mind? Let's talk.
-
-[LinkedIn](https://www.linkedin.com/in/abdelrahman-sallam-057a62356/) &nbsp; / &nbsp; [Email](mailto:ab01095702547@gmail.com) &nbsp; / &nbsp; [GitHub](https://github.com/abdelrahmansallam2)
-
-<sub>Abdelrahman Sallam / Flutter Developer / Cairo, Egypt</sub>
+<img width="100%" src="./assets/lab-footer.svg" alt="Built with curiosity. Refined with care. Abdelrahman Sallam, Cairo, Egypt." />

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="238" viewBox="0 0 1200 238" fill="none" role="img" aria-labelledby="title"><title id="title">Islami App - Quran, Hadith, Sebha and radio with Flutter</title><defs></defs><g font-family="Segoe UI,Arial,sans-serif">
+  <rect x="1" y="1" width="1198" height="236" rx="18" fill="#C8BCF6" stroke="#A69AD4" stroke-width="1"/>
+  <text x="34" y="37" fill="#504774" font-size="13" font-weight="500" font-family="Consolas,monospace" >03 / AN EVERYDAY COMPANION</text>
+  <text x="28" y="130" fill="#10151D" font-size="80" font-weight="850" letter-spacing="-3">ISLAMI APP</text>
+  <text x="34" y="174" fill="#504774" font-size="15" font-weight="500" font-family="Consolas,monospace" >FLUTTER / LOCALIZATION / THEMES</text>
+  <text x="34" y="213" fill="#10151D" font-size="13" font-weight="500" font-family="Consolas,monospace" >EXPLORE THE SOURCE -&gt;</text>
+  <circle cx="906" cy="119" r="93" fill="#B5A8E7"/>
+  <circle cx="906" cy="119" r="76" stroke="#8A7EB6" stroke-dasharray="2 10"/>
+  <path d="M876 62a49 49 0 1 0 66 66 46 46 0 0 1-66-66z" fill="#F4F1E8" stroke="#10151D" stroke-width="2"/>
+  <path d="M950 68l5 12 13 2-10 9 3 13-11-7-12 7 3-13-10-9 14-2z" fill="#C7F279" stroke="#10151D" stroke-width="2"/>
+  <rect x="1010" y="101" width="136" height="31" rx="15" fill="#F4F1E8"/><text x="1078" y="122" fill="#10151D" font-size="12" font-weight="500" font-family="Consolas,monospace" text-anchor="middle">AR / EN</text>
+</g></svg>

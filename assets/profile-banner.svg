@@ -1,46 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" fill="none" role="img" aria-labelledby="title description">
-  <title id="title">Abdelrahman Sallam - Flutter Developer</title>
-  <desc id="description">An original editorial-style developer banner in warm ivory, charcoal, and burnt orange, with a modular UI, state, and data illustration.</desc>
-  <defs>
-    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="0.7" fill="#D8D1C6"/></pattern>
-    <linearGradient id="wash" x1="770" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#EEE7DB"/><stop offset="1" stop-color="#F6F2EB"/></linearGradient>
-  </defs>
-  <rect x="0.5" y="0.5" width="1279" height="359" rx="18" fill="#F6F2EB" stroke="#D7CEC0"/>
-  <path d="M812 1H1262Q1279 1 1279 18V342Q1279 359 1262 359H812Z" fill="url(#wash)"/>
-  <path d="M812 1V359" stroke="#D7CEC0"/>
-  <rect x="824" y="18" width="438" height="324" rx="12" fill="url(#dots)" opacity="0.65"/>
-  <g font-family="Segoe UI, Arial, sans-serif">
-    <rect x="58" y="43" width="36" height="36" rx="7" fill="#232B30"/>
-    <text x="76" y="66.5" fill="#F6F2EB" text-anchor="middle" font-size="14" font-weight="700">AS</text>
-    <text x="108" y="58" fill="#C35F36" font-size="12" font-weight="700" letter-spacing="2.2">FLUTTER DEVELOPER</text>
-    <text x="108" y="77" fill="#79736B" font-size="11" letter-spacing="1.1">MOBILE DEVELOPMENT / CAIRO, EGYPT</text>
-    <text x="55" y="157" fill="#20282E" font-size="60" font-weight="750" letter-spacing="-1.8">Abdelrahman Sallam</text>
-    <rect x="59" y="184" width="42" height="3" rx="1.5" fill="#D46B40"/>
-    <text x="58" y="226" fill="#3D484E" font-size="27" font-weight="500">Flutter apps, built with care.</text>
-    <text x="59" y="261" fill="#79736B" font-size="15">Thoughtful UI. Clear state. Useful everyday experiences.</text>
-    <path d="M59 294H752" stroke="#D7CEC0"/>
-    <text x="59" y="321" fill="#79736B" font-size="10.5" letter-spacing="1.7">BUILD / TEST / REFINE</text>
-    <text x="752" y="321" fill="#C35F36" font-size="11" text-anchor="end" letter-spacing="1.1">DART + FLUTTER</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" fill="none" role="img" aria-labelledby="title"><title id="title">Abdelrahman Sallam - Flutter Developer - The Flutter Lab</title><defs></defs><g font-family="Segoe UI,Arial,sans-serif">
+    <rect x="1" y="1" width="1198" height="558" rx="24" fill="#10151D" stroke="#303E4C" stroke-width="1"/>
+    <path d="M742 1v558M1 64h1198M1 502h1198" stroke="#303E4C"/>
+    <rect x="28" y="20" width="27" height="26" rx="7" fill="#C7F279"/><text x="41.5" y="38" fill="#10151D" font-size="11" font-weight="800" text-anchor="middle">AS</text>
+    <text x="69" y="38" fill="#F4F1E8" font-size="13" font-weight="500" font-family="Consolas,monospace" letter-spacing="2">THE FLUTTER LAB</text>
+    <circle cx="1056" cy="33" r="4" fill="#C7F279" opacity="0.71"/>
+    <text x="1166" y="38" fill="#A9B6C4" font-size="12" font-weight="500" font-family="Consolas,monospace" text-anchor="end">CAIRO, EG</text>
+    <rect x="43" y="94" width="185" height="31" rx="15" fill="#C7F279"/><text x="135.5" y="115" fill="#10151D" font-size="12" font-weight="500" font-family="Consolas,monospace" text-anchor="middle">FLUTTER DEVELOPER</text>
+    <text x="36" y="226" fill="#F4F1E8" font-size="87" font-weight="850" letter-spacing="-4">ABDELRAHMAN</text>
+    <text x="36" y="329" fill="#F4F1E8" font-size="119" font-weight="850" letter-spacing="-5">SALLAM</text>
+    <path d="M46 350q144-15 282-2" stroke="#C7F279" stroke-width="5" stroke-linecap="round"/>
+    <text x="44" y="397" fill="#A9B6C4" font-size="27" font-weight="450" >Small screens.</text>
+    <text x="44" y="432" fill="#F4F1E8" font-size="27" font-weight="700" >Big possibilities.</text>
+    <text x="44" y="476" fill="#A9B6C4" font-size="13" font-weight="500" font-family="Consolas,monospace" >MOBILE APPS  /  AI WORKFLOWS  /  SMART HOMES</text>
+    <circle cx="770" cy="117" r="1.6" fill="#3B4A59"/><circle cx="827" cy="117" r="1.6" fill="#3B4A59"/><circle cx="884" cy="117" r="1.6" fill="#3B4A59"/><circle cx="941" cy="117" r="1.6" fill="#3B4A59"/><circle cx="998" cy="117" r="1.6" fill="#3B4A59"/><circle cx="1055" cy="117" r="1.6" fill="#3B4A59"/><circle cx="770" cy="247" r="1.6" fill="#3B4A59"/><circle cx="827" cy="247" r="1.6" fill="#3B4A59"/><circle cx="884" cy="247" r="1.6" fill="#3B4A59"/><circle cx="941" cy="247" r="1.6" fill="#3B4A59"/><circle cx="998" cy="247" r="1.6" fill="#3B4A59"/><circle cx="1055" cy="247" r="1.6" fill="#3B4A59"/><circle cx="770" cy="377" r="1.6" fill="#3B4A59"/><circle cx="827" cy="377" r="1.6" fill="#3B4A59"/><circle cx="884" cy="377" r="1.6" fill="#3B4A59"/><circle cx="941" cy="377" r="1.6" fill="#3B4A59"/><circle cx="998" cy="377" r="1.6" fill="#3B4A59"/><circle cx="1055" cy="377" r="1.6" fill="#3B4A59"/>
+    <ellipse cx="963" cy="281" rx="204" ry="103" transform="rotate(-42 963 281)" stroke="#455664" stroke-dasharray="5 9" stroke-width="1.5"/>
+    <ellipse cx="963" cy="281" rx="199" ry="151" transform="rotate(26 963 281)" stroke="#283746"/>
+    <g transform="translate(0 2.35)">
+    <rect x="852" y="92" width="228" height="382" rx="38" fill="#070B10" stroke="#526474" stroke-width="2"/>
+    <rect x="863" y="103" width="206" height="360" rx="29" fill="#F4F1E8"/>
+    <rect x="925" y="112" width="81" height="17" rx="9" fill="#10151D"/>
+    <text x="881" y="147" fill="#10151D" font-size="10" font-weight="500" font-family="Consolas,monospace" >9:41</text>
+    <path d="M1036 139h12m-12 4h8" stroke="#10151D" stroke-width="2" stroke-linecap="round"/>
+    <text x="880" y="177" fill="#10151D" font-size="20" font-weight="750" >Make it useful.</text>
+    <text x="880" y="195" fill="#65717B" font-size="8.5" font-weight="500" font-family="Consolas,monospace" >MAKE IT FEEL RIGHT.</text>
+    <g opacity="1.000"><rect x="880" y="214" width="172" height="72" rx="14" fill="#10151D"/><path d="M895 263l24-17 22 9 24-25 20 8 24-7 25-6" stroke="#C7F279" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g><g opacity="0.000"><rect x="880" y="214" width="172" height="72" rx="14" fill="#8DDFF2"/><text x="896" y="243" fill="#10151D" font-size="17" font-weight="500" font-family="Consolas,monospace" >&lt;Widget /&gt;</text><rect x="896" y="257" width="121" height="6" rx="3" fill="#63AFC4"/></g><g opacity="0.000"><rect x="880" y="214" width="172" height="72" rx="14" fill="#C8BCF6"/><circle cx="911" cy="249" r="15" fill="#10151D"/><path d="M904 249l5 5 10-11" stroke="#F4F1E8" stroke-width="2.5" stroke-linecap="round"/><text x="937" y="254" fill="#10151D" font-size="15" font-weight="700" >Feels right.</text></g>
+    <rect x="880" y="298" width="80" height="66" rx="12" fill="#8DDFF2"/><rect x="972" y="298" width="80" height="66" rx="12" fill="#C8BCF6"/>
+    <path d="M896 317h28m-28 7h19m-19 7h23" stroke="#10151D" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="891" y="351" fill="#10151D" font-size="8" font-weight="500" font-family="Consolas,monospace" >INTERFACE</text>
+    <path d="M995 316l-8 8 8 8m14-16l8 8-8 8" stroke="#10151D" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="987" y="351" fill="#10151D" font-size="8" font-weight="500" font-family="Consolas,monospace" >BEHAVIOR</text>
+    <rect x="880" y="377" width="172" height="43" rx="12" fill="#C7F279"/>
+    <text x="897" y="404" fill="#10151D" font-size="12" font-weight="700" >Build something good</text>
+    <rect x="941" y="445" width="49" height="4" rx="2" fill="#10151D"/>
   </g>
-  <g font-family="Consolas, monospace">
-    <text x="859" y="55" fill="#7D776E" font-size="10.5" letter-spacing="2">A SMALL APP SYSTEM</text>
-    <path d="M879 99V262" stroke="#B6AD9D" stroke-width="1.5"/>
-    <circle cx="879" cy="117" r="5" fill="#D46B40"/>
-    <circle cx="879" cy="187" r="5" fill="#6D8270"/>
-    <circle cx="879" cy="257" r="5" fill="#667A8A"/>
-    <path d="M884 117H908M884 187H908M884 257H908" stroke="#B6AD9D" stroke-width="1.5"/>
-    <rect x="913" y="93" width="276" height="56" rx="10" fill="#FFFFFF" fill-opacity="0.8" stroke="#CDBFAE"/>
-    <rect x="908" y="88" width="276" height="56" rx="10" fill="#FFFDF9" stroke="#CDBFAE"/>
-    <text x="928" y="111" fill="#C35F36" font-size="10">01 / PRESENTATION</text>
-    <text x="928" y="130" fill="#29343B" font-size="13">Widgets that work together</text>
-    <rect x="913" y="163" width="276" height="56" rx="10" fill="#FFFFFF" fill-opacity="0.8" stroke="#CDBFAE"/>
-    <rect x="908" y="158" width="276" height="56" rx="10" fill="#FFFDF9" stroke="#CDBFAE"/>
-    <text x="928" y="181" fill="#6D8270" font-size="10">02 / STATE</text>
-    <text x="928" y="200" fill="#29343B" font-size="13">Clear, predictable behavior</text>
-    <rect x="913" y="233" width="276" height="56" rx="10" fill="#FFFFFF" fill-opacity="0.8" stroke="#CDBFAE"/>
-    <rect x="908" y="228" width="276" height="56" rx="10" fill="#FFFDF9" stroke="#CDBFAE"/>
-    <text x="928" y="251" fill="#667A8A" font-size="10">03 / DATA</text>
-    <text x="928" y="270" fill="#29343B" font-size="13">APIs, auth, and persistence</text>
-    <text x="859" y="321" fill="#8E8578" font-size="10" letter-spacing="1">ONE DETAIL AT A TIME.</text>
-  </g>
-</svg>
+    <g transform="translate(0 2.94) rotate(-7 822 195)">
+      <rect x="774" y="165" width="108" height="59" rx="12" fill="#8DDFF2" stroke="#070B10" stroke-width="2"/>
+      <text x="789" y="189" fill="#10151D" font-size="15" font-weight="500" font-family="Consolas,monospace" >UI + UX</text><text x="789" y="208" fill="#3B5360" font-size="10" font-weight="500" font-family="Consolas,monospace" >the details</text>
+    </g>
+    <g transform="translate(0 -2.94) rotate(7 1090 368)">
+      <rect x="1036" y="335" width="125" height="65" rx="12" fill="#FFAE95" stroke="#070B10" stroke-width="2"/>
+      <path d="M1051 362l13-11 13 11v18h-26zM1060 380v-11h9v11" stroke="#10151D" stroke-width="2"/>
+      <text x="1085" y="363" fill="#10151D" font-size="11" font-weight="500" font-family="Consolas,monospace" >SMART</text><text x="1085" y="378" fill="#10151D" font-size="11" font-weight="500" font-family="Consolas,monospace" >HOME</text>
+    </g>
+    <rect x="875" y="479" width="186" height="31" rx="15" fill="#C8BCF6"/><text x="968" y="500" fill="#10151D" font-size="12" font-weight="500" font-family="Consolas,monospace" text-anchor="middle">01 / IMAGINE</text>
+    <text x="43" y="537" fill="#C7F279" font-size="16" font-weight="500" font-family="Consolas,monospace" >&gt; flutter run</text>
+    <rect x="185" y="524" width="8" height="17" rx="1" fill="#C7F279"/>
+    <text x="1157" y="537" fill="#A9B6C4" font-size="12" font-weight="500" font-family="Consolas,monospace" text-anchor="end">IDEA -&gt; INTERFACE -&gt; EXPERIENCE</text>
+  </g></svg>
